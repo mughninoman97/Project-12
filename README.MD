@@ -1,24 +1,26 @@
-# Project No. 12
+# Project No. 12 (Website Design & Development)
 
-This is my 11th project of Web Development. The project is designed in such a way that it works on large(Desktop & Laptop) as well as small screens(Mobile Devices). 
+This is my _**11th project**_ of Web Development. The project is designed in such a way that it works on large(Desktop & Laptop) as well as small screens(Mobile Devices). 
+
+>[Check out Deployed link here](https://project-12-by-noman.netlify.app/)
 
 FULL WEBPAGE:
-![Project2](sc/full.png "proj2 image")
+![Project12](sc/full.png "proj12 image")
 
 NAVBAR:
-![Project2](/sc/nav.PNG "proj2 image")
+![Project12](/sc/nav.PNG "proj12 image")
 
 BODY:
-![Project2](/sc/body1.PNG "pro21 image")
+![Project12](/sc/body1.PNG "pro12 image")
 
 FOOTER:
-![Project2](/sc/foot.PNG "pro21 image")
+![Project12](/sc/foot.PNG "pro12 image")
 
 
 ## Technologies Used
 
-![Mascot](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "mascot logo")
-![Mascot](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg "mascot logo")
+![html](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "html logo")
+![css](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg "css logo")
 
 
 ## What I leaned
